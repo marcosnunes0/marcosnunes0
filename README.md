@@ -30,4 +30,11 @@ Explorando novas tecnologias e aprimorando minhas habilidades:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosnunes0/)
 
 ---
-> “Tecnologia é a arte de transformar ideias em realidade.” 🚀  
+> “Tecnologia é a arte de transformar ideias em realidade.” 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosnunes0/marcosnunes0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosnunes0/marcosnunes0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosnunes0/marcosnunes0/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
