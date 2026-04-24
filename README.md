@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil! Aqui você vai encontrar meus projetos, estudos e automações desenvolvidos durante a minha tragetória como desenvolvedor e criador de soluções. Sou entusiasta de tecnologia, com foco em entregar soluções que otimizem processos e elevem a qualidade da infraestrutura de TI.
 
 Explorando novas tecnologias e aprimorando minhas habilidades:
-- Interesse especial em **Inteligência Artificial, Automação de Sistemas, Administração de Redes e Engenharia de Dados**
+- Interesse especial em **Dsenvolvimento de Software, Automação de Sistemas, Administração de Redes e Engenharia de Dados**
 - Experiência prática com **Python**, **SQL**, **Scripting** e **Configuração de Servidores**
 - Apaixonado por resolver problemas do dia a dia com **soluções inovadoras**
 - Inglês intermediário (B1/B2) e forte vontade de aprender novas ferramentas como **Engenharia de Dados** e **Análise de Dados**
@@ -13,7 +13,7 @@ Explorando novas tecnologias e aprimorando minhas habilidades:
 - Scripting em Python para automação de tarefas
 - Gestão de bases de dados (SQL & NoSQL)
 - Automação de sistemas e processos
-- Conceitos de Inteligência Artificial e Engenharia de Dados
+- Conceitos de Engenharia de Dados
 
 ## 🤝 Soft Skills
 - Organização e atenção aos detalhes
